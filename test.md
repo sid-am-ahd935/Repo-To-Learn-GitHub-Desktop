@@ -1,0 +1,1 @@
+This is a file that is only included inside a test branch and is not contained in main. Hence this file gets hidden within git commits when switching to different branches.
