@@ -1,0 +1,3 @@
+Hello there, I am Aman Ahmed Siddiqui. And this is my repository for teaching myself GitHub Desktop GUI. Not only we should learn the command line interface but also we should learn the GUI tools that come for making git and its working easier. Hence I thought of trying GitHub desktop for once. And here I am.
+
+Also this is a part of the Scaler's Open Source September Program of 2022. So yeah... this is also a reason why I am doing this...
